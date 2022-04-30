@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
 
     //api
-    private val apiKey = "1f1920bf73b66d533944d8522dd7008c"
+    private val apiKey = "Your Key"
     private val mainUrl = "https://api.openweathermap.org/data/2.5/weather?lang=ja"
 
     override fun onCreate(savedInstanceState: Bundle?) {
